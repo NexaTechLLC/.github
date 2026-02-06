@@ -26,7 +26,7 @@ We focus on:
 **Category:** AI & Life Optimization  
 An AI-powered life-design operating system that helps users optimize routines and achieve goals across 31 dimensions of human life.
 
-🔗 https://www.nexatechllc.com
+🔗 https://nexatechllc.com/insights/lifemanual-ai
 
 ---
 
@@ -34,7 +34,7 @@ An AI-powered life-design operating system that helps users optimize routines an
 **Category:** Health & Wellness  
 A structured manifestation and mindfulness app that supports emotional balance, focus, and personal growth.
 
-🔗 https://www.codedmanifestation.app
+🔗 https://nexatechllc.com/insights/coded-manifestation
 
 ---
 
@@ -42,7 +42,7 @@ A structured manifestation and mindfulness app that supports emotional balance, 
 **Category:** Health & Wellness  
 Delivers personalized affirmations and mindset routines for confidence, discipline, and resilience.
 
-🔗 https://www.nexatechllc.com
+🔗 [https://www.nexatechllc.com](https://nexatechllc.com/insights/affirmation-empire)
 
 ---
 
@@ -50,7 +50,7 @@ Delivers personalized affirmations and mindset routines for confidence, discipli
 **Category:** Lifestyle & Relationships  
 A purpose-driven dating platform focused on safe, meaningful, and long-term connections.
 
-🔗 https://www.nexatechllc.com
+🔗 https://nexatechllc.com/insights/perfect-love
 
 ---
 
@@ -58,7 +58,7 @@ A purpose-driven dating platform focused on safe, meaningful, and long-term conn
 **Category:** Finance Solutions  
 A modern financial system for wealth management and enterprise finance optimization.
 
-🔗 https://www.nexatechllc.com
+🔗 https://nexatechllc.com/insights/millionaires-empire
 
 ---
 
@@ -103,7 +103,7 @@ Looking to build your next product or scale your platform? Let’s work together
 ## 📬 Contact Us
 
 🌐 Website: https://www.nexatechllc.com  
-📧 Email: support@nexatechllc.com  
+📧 Email: Admin@nexatechllc.com  | nexatechllc@gmail.com
 📸 Instagram: @nexatechllc  
 🐦 X (Twitter): @nexatechllc  
 
