@@ -4,7 +4,6 @@
 
 Nexatech LLC is a technology company specializing in AI-powered applications, digital transformation, and scalable software solutions. We partner with startups, enterprises, and innovators to turn bold ideas into high-performing digital products.
 
----
 
 ## 🌍 About Us
 
@@ -18,7 +17,6 @@ We focus on:
 - Financial Technology Solutions
 - Enterprise Systems
 
----
 
 ## 📱 Our Products & Projects
 
@@ -28,7 +26,6 @@ An AI-powered life-design operating system that helps users optimize routines an
 
 🔗 https://nexatechllc.com/insights/lifemanual-ai
 
----
 
 ### 🌿 Coded Manifestation — Wellness & Mindset Platform  
 **Category:** Health & Wellness  
@@ -36,7 +33,7 @@ A structured manifestation and mindfulness app that supports emotional balance, 
 
 🔗 https://nexatechllc.com/insights/coded-manifestation
 
----
+
 
 ### 💬 The Affirmation Empire App — Daily Motivation System  
 **Category:** Health & Wellness  
@@ -44,7 +41,7 @@ Delivers personalized affirmations and mindset routines for confidence, discipli
 
 🔗 [https://www.nexatechllc.com](https://nexatechllc.com/insights/affirmation-empire)
 
----
+
 
 ### ❤️ Perfect Love — Intentional Dating Platform  
 **Category:** Lifestyle & Relationships  
@@ -52,7 +49,7 @@ A purpose-driven dating platform focused on safe, meaningful, and long-term conn
 
 🔗 https://nexatechllc.com/insights/perfect-love
 
----
+
 
 ### 💼 Millionaires Empire — Financial Digital Transformation  
 **Category:** Finance Solutions  
@@ -60,7 +57,7 @@ A modern financial system for wealth management and enterprise finance optimizat
 
 🔗 https://nexatechllc.com/insights/millionaires-empire
 
----
+
 
 ## 🛠️ What We Do
 
@@ -73,7 +70,7 @@ We deliver end-to-end technology solutions, including:
 ✅ Cybersecurity & Infrastructure  
 ✅ Quality Assurance & Support  
 
----
+
 
 ## 💡 Our Approach
 
@@ -85,7 +82,7 @@ Our process ensures:
 - Business alignment
 - Continuous improvement
 
----
+
 
 ## 🤝 Work With Us
 
@@ -98,7 +95,7 @@ We collaborate with:
 
 Looking to build your next product or scale your platform? Let’s work together.
 
----
+
 
 ## 📬 Contact Us
 
@@ -107,7 +104,7 @@ Looking to build your next product or scale your platform? Let’s work together
 📸 Instagram: @nexatechllc  
 🐦 X (Twitter): @nexatechllc  
 
----
+
 
 ## ⭐ Our Mission
 
